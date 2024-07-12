@@ -1,0 +1,243 @@
+{
+  "home": {
+    "Home": "Home",
+    "Sold": "Sold",
+    "Instock": "Instock",
+    "OutStock": "OutStock",
+    "Last Updated": "Last Updated",
+    "Purchase Price/oz": "Purchase Price/oz",
+    "Selling Price/oz": "Selling Price/oz",
+    "What service are you looking for?": "21 Backery",
+    "Our service": "Our service",
+    "Categories": "Categories",
+    "Popular bakery": "Popular",
+    "Promotion": "Promotions",
+    "See all": "See all",
+    "New Arrival": "New Arrival",
+    "Popular for you": "Most Popular",
+    "New Design": "New Design",
+    "View More": "View More",
+    "Recommended for you": "Recommended for you",
+    "Popular Categories": "All Categories",
+    "Failed to connect the sever": "Failed to connect the sever",
+    "Please check your internet connection and try again": "Please check your internet connection and try again",
+    "Please Update": "Please Update",
+    "You will have to update your app to the latest version to continue using": "You will have to update your app to the latest version to continue using.",
+    "Update": "Update",
+    "Company Name": "តៀមអង្ករ"
+  },
+  "setting": {
+    "Setting": "Setting",
+    "Notification": "Notifications",
+    "Language": "Languages",
+    "English": "English",
+    "Apply": "Apply",
+    "App Settings": "App Settings",
+    "More Settings": "More Settings"
+  },
+  "booking": {
+    "Booking": "Booking"
+  },
+  "inbox": {
+    "Inbox": "Inbox"
+  },
+  "favorite": {
+    "Save": "Save",
+    "Your favorites": "My Favorites",
+    "No Items Found!": "No Items Found!",
+    "Sign In Require": "Sign In Require!",
+    "Please sign in before you can add this item to your favorite": "Please sign in before you can add this item to your favorite"
+  },
+  "order": {
+    "Order": "Order",
+    "Your Orders": "My orders",
+    "Your order history": "Your order history",
+    "Cancelled": "Cancelled",
+    "Completed": "Completed",
+    "Requesting": "Requesting",
+    "Confirmed": "Confirmed",
+    "Reorder": "Reorder",
+    "Thank You!!": "Thank You",
+    "Your order status is": "Your order status is",
+    "Date & Time": "Date & Time",
+    "Order Items Detail": "Your Order Items",
+    "Subtotal": "Subtotal",
+    "Discount": "Discount",
+    "Total": "Total",
+    "Orders Detail": "Orders Detail",
+    "No order history yet": "No order history yet.",
+    "You don t have any order history yet Try order now your previous completed order will show here": "You don't have any order history yet. Try order now your previous completed order will show here."
+  },
+  "promotion": {
+    "Promotion": "Promotions",
+    "Coming Soon": "Empty",
+    "Promotion Detail": "Promotion Detail",
+    "Notification Detail": "Notification Detail"
+  },
+  "profile": {
+    "Me": "Me",
+    "profile": "Profile",
+    "Saving Points": "Point Available",
+    "Your Wallet": "Your Wallet",
+    "My Favorite": "My Favorite",
+    "Version": "Version",
+    "My QR code": "My QR code",
+    "You are not signed in": "You are not signed in",
+    "Sign In": "Sign In"
+  },
+  "cart": {
+    "just out of stock, please confirm remove it!":"just out of stock, please confirm remove it!",
+    "just out of stock, please back to check out and re-submit!":"just out of stock, please back to check out and re-submit!",
+    "Your Cart": "Your Cart",
+    "Add To Cart": "Add To Bag",
+    "Your Bag List": "Your Bag List",
+    "Check Out": "Check Out",
+    "Total": "Total",
+    "Hungry": "Hungry?",
+    "No items in cart": "No items in cart.",
+    "Are you sure you want to delete this item": "Are you sure you want to delete this item?",
+    "Yes": "Yes",
+    "No": "No",
+    "Sorry": "Sorry",
+    "Go to cart": "Go to cart",
+    "Your Points is not enough, Please pay by cash": "Your Points is not enough, Please pay by cash",
+    "Sign In Require": "Sign In Require!",
+    "Please sign in before you can check out": "Please sign in before you can check out"
+  },
+  "checkout": {
+    "location warning": "For using Delivery Service, you need to allow location on your Device first! For details, go to the location settings.",
+    "Over zoon limit": "Sorry, your locaiton is over zone delivery limit.",
+    "Delivery Information": "Delivery Information",
+    "You are about": "You are about",
+    "from our Shop": "from our shop",
+    "Our Policy": "Our Policy",
+    "Free Delivery": "Free Delivery",
+    "If your location over": "If your location over",
+    "but lower than": "but lower than",
+    "Delivery Fee is": "Delivery Fee is",
+    "Maximum limit zoon is": "Maximum limit zone is",
+    "The waiting hours is": "The waiting hours is",
+    "Minuts": "Minuts",
+    "Working hour from": "Working hour from",
+    "Check Out": "Check Out",
+    "Over Time": "Sorry, Over Time for order!",
+    "Your order items": "Your order items",
+    "contact info": "Contact Info",
+    "Name": "Name",
+    "Email": "Email",
+    "Phone": "Phone",
+    "Continue to order": "Place Order",
+    "Payment method": "Payment method",
+    "Subtotal": "Subtotal",
+    "Discount": "Discount",
+    "Grand total": "Total",
+    "Information": "Information",
+    "Please complete your contact information before check out": "Please complete your contact information before check out",
+    "Cancel": "Cancel",
+    "Select": "Select",
+    "Cash": "Cash",
+    "Point": "Point",
+    "Ok": "OK",
+    "Give cash to our cashier": "Give cash to our cashier",
+    "Your points must be available": "Your points must be available",
+    "Type of service": "Type of service",
+    "Please select order type": "Please select order type"
+  },
+  "checkoutcomplete": {
+    "Your Delivery is on the way. Driver will contact you!": "Your Delivery is on the way. Driver will contact you!"
+  },
+  "drawer": {
+    "Profile": "Profile",
+    "My orders": "My orders",
+    "Help": "Help",
+    "Setting": "Setting",
+    "Logout": "Logout",
+    "Login": "Login",
+    "Are you sure you would like to log out ?": "Are you sure you would like to log out ?",
+    "Ok": "Ok",
+    "Cancel": "Cancel",
+    "Saving point": "Saving point",
+    "All Category": "All Categories",
+    "About Us": "About Us"
+  },
+  "login": {
+    "Welcome": "Welcome",
+    "Next": "Next",
+    "Or": "Or",
+    "Phone Number": "Phone Number",
+    "Login Account": "Login Account",
+    "Login Facebook": "Sign in with Facebook",
+    "Login Google": "Sign in with Google",
+    "Sign in with account": "Sign in with account"
+  },
+
+  "orderdetail": {
+    "Payment": "Payment",
+    "Order date": "Date & Time",
+    "Status": "Status",
+    "Your order items": "Your order items",
+    "Requesting": "Requesting...",
+    "Order number": "Order number",
+    "Your Delivery is on the way Driver will contact you!": "Your Delivery is on the way Driver will contact you!"
+  },
+  "editprofile": {
+    "Edit Profile": "Edit Profile",
+    "Contact info": "Contact info",
+    "Edit": "Edit",
+    "Phone": "Phone",
+    "Email": "Email",
+    "Name": "Name",
+    "Save change": "Save change"
+  },
+  "productdetail": {
+    "Add to cart": "Add To Bag",
+    "Special instruction": "Special instruction",
+    "Select options": "Select Option",
+    "Update": "Update",
+    "Special Instruction": "Special Instruction",
+    "This item successful added to your cart": "This item successful added to your cart.",
+    "Please Select Option": "Please Select Option",
+    "Option price must be select one required": "Option price must be select one required!!",
+    "Description": "Description",
+    "Customize": "Customize",
+    "1 REQUIRED": "1 Require",
+    "OPTIONAL": "Optional",
+    "Sorry you can't Increase quantity greater than 99": "Sorry you can't increase quantity greater than 99",
+    "This item already in your cart": "This item already in your cart",
+    "Select up to 4 toping": "Select up to 4 toping"
+  },
+  "search": {
+    "Search": "Search",
+    "No items found": "No items found"
+  },
+  "point": {
+    "Points Transitions": "Point Transition",
+    "Available Points": " Point Available",
+    "Cutting Points": "Pay Bill",
+    "No Transitions": "No Transitions",
+    "Earned": "Earned",
+    "Pay Bill": "Pay Bill",
+    "pt": "point",
+    "Adding Points": "Top-up Points",
+    "Added Points": "Added Points",
+    "Void": "Void"
+  },
+  "notification": {
+    "No notification": "No notification",
+    "You don't have notifications": "You don't have any notifications",
+    "Transitions": "Transitions"
+  },
+  "loading": {
+    "No Internet connection": "No Internet connection",
+    "Please check your internet connection and try again": "Please check your internet connection and try again",
+    "Refresh": "Refresh"
+  },
+  "QRCode": {
+    "Scan QR code here": "Scan QR code here",
+    "My QR code": "My QR code",
+    "Menu":"Menu"
+  },
+  "about": {
+    "About Us": "About Us"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "582455528652",
+    "project_id": "charyadiamond",
+    "storage_bucket": "charyadiamond.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582455528652:android:476e9ff531953c9ec7c669",
+        "android_client_info": {
+          "package_name": "com.charyadiamond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582455528652-evaf2i8laggcl4u6f2ec3ge5cmel0i9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKnx36Vt4CcIsZNuraLveo1c-eiH8By1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582455528652-evaf2i8laggcl4u6f2ec3ge5cmel0i9q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582455528652-advvemfsj3ekq6nef0i0p51bluvcpq4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.charyadiamond"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
